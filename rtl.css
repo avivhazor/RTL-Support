@@ -1,0 +1,114 @@
+span.checkbox-span.pull-left {
+    float: right !important;
+    padding-left: 10px;
+}
+
+.tt-input {
+text-align: right;
+}
+
+select#activity_speed {
+    float: left !important;
+}
+
+.inst-account .account-delete-block {
+    left: 0 !important;
+    right: auto;
+}
+
+button#refresh-followers-following-info {
+    margin-left: 5px !important;
+    margin-right: -10px  !important;
+}
+
+.settings-block .pull-right {
+    float: left !important;
+}
+
+.promo-likes-count.pull-left {
+    float: right !important;
+}
+
+.promo-item .pull-right {
+    float: left !important;
+}
+
+.promo-item .pull-left {
+    float: right !important;
+}
+
+.add-account-dialog-form .toggle.btn.btn-default.off.btn-sm {
+    float: left;
+}
+
+button.btn.btn-primary.add-account-submit-button {
+    float: left;
+}
+
+#tab-order-new .pull-right {
+    float: left !important;
+}
+
+
+span.package-stat-inline .btn-group.pull-right {
+    float: left !important;
+    margin-right: 10px;
+}
+
+td.td-day-prices {
+    float: left;
+    text-align: left;
+}
+
+.payment-account-panel__features table .td-price {
+    padding-right: 10px;
+}
+
+.btn.payment-account-panel__void-days {
+    float: left !important;
+}
+
+.total-block 
+ button.btn.btn-success.btn-lg.pull-right {
+    float: left !important;
+}
+
+span.label-100 {
+    margin-left: 10px;
+}
+
+div#current-account-manage-panel .inst-account div:first-child {
+    padding-right: 0px !important;
+}
+
+div#current-account-manage-panel .inst-account div:last-child {
+    left: 0;
+    margin-left: 0 !important;
+    right: auto !important;
+}
+
+div#jPanelMenu-menu {
+    direction: ltr;
+}
+
+.nano.nano-sidebar {
+    direction: rtl;
+}
+
+@media (min-width: 768px) {
+	.nav-justified > li {
+	    float: none !important;
+
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	.payment-account-panel__features .td-day-prices {
+	    display: inline-block;
+	    float: left;
+	}
+	.payment-account-panel__current-days--mobile {
+	    float: left !important;
+	    margin-left: 10px;
+	}
+}
